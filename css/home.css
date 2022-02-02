@@ -13,9 +13,9 @@ body h1{
     background-color: #a699f7
 }
 nav{
-    height: 60px;
+    height: 40px;
     width: 1000px;
-    margin: 0 auto, 20px;
+    margin-top: 0px;
 }
 #mainsec{
     width:1250px;
@@ -24,7 +24,7 @@ nav{
 #sidebar{
     float: left;
     width:30%;
-    height:700px;
+    height:900px;
     background-color: rgba(105, 105, 105, 0.171);
     margin: 0 auto, 20px;
 }
@@ -34,9 +34,12 @@ nav{
     margin: 10 10px;
     width:200px;
 }
+#searchtext{
+    padding-left: 60px;
+}
 #main{
     float: right;
-    height:700px;
+    height:900px;
     width:70%;
     background-color: rgba(105, 105, 105, 0.171);
     margin: 0 auto, 20px;
