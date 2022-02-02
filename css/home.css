@@ -1,0 +1,53 @@
+body{
+    margin-top: 0px;
+}
+body{
+    background-color: rgba(105, 105, 105, 0.171);
+}
+body h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#a699f7
+}
+#home_header{
+    background-color: #a699f7
+}
+nav{
+    height: 60px;
+    width: 1000px;
+    margin: 0 auto, 20px;
+}
+#mainsec{
+    width:1250px;
+    margin: 0 auto, 20px;
+}
+#sidebar{
+    float: left;
+    width:30%;
+    height:700px;
+    background-color: rgba(105, 105, 105, 0.171);
+    margin: 0 auto, 20px;
+}
+.searchtext{
+    text-align: center;
+    padding:5px;
+    margin: 10 10px;
+    width:200px;
+}
+#main{
+    float: right;
+    height:700px;
+    width:70%;
+    background-color: rgba(105, 105, 105, 0.171);
+    margin: 0 auto, 20px;
+}
+footer{
+    clear:both;
+    width: 100%;
+}
+header,sidebar,main,aside,footer,article,nav{
+    display: block;
+}
+/* #intro{
+    background-color: rgb(247, 229, 247);
+} */
